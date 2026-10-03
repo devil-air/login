@@ -1,0 +1,14 @@
+{
+  "name": "kingpin-5.0",
+  "version": "5.0.0",
+  "description": "KINGPIN 5.0 - Professional Auto Bet & Predictor Engine with Socket.IO Server",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.8.1"
+  }
+}
